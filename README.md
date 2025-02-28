@@ -20,12 +20,46 @@ Due to privacy concerns surrounding the participants of the research, we do not 
 If your research uses the RSD-15K dataset, please cite the following paper in your publication:
 
 ```
-Zheng, S., Tao, Y., & Zhou, T. (2025). RSD-15K: A Large-Scale User-Level Annotated Dataset for Suicide Risk Detection on Social Media. The Hong Kong Polytechnic University.
+Zheng, S., Tao, Y., & Zhou, T. (2025). RSD-15K: A Large-Scale User-Level Annotated Dataset for Suicide Risk Detection on Social Media. XXXXXXXXXXXXX
 ```
 
 ## Research Team
 
-This dataset was developed by a research team at The Hong Kong Polytechnic University.
+**Shouwen Zheng**  
+Department of Computing  
+The Hong Kong Polytechnic University  
+Hong Kong  
+21097982d@connect.polyu.hk
+
+**Yingzhi Tao**  
+School of Computer Science and Technology  
+Anhui University  
+Hefei, China  
+e02114112@stu.ahu.edu.cn
+
+**Taiqi Zhou**  
+Department of Computing  
+The Hong Kong Polytechnic University  
+Hong Kong  
+21106717d@connect.polyu.hk
+
+## Acknowledgements
+We would like to express our gratitude to the following individuals for their valuable contributions and support:
+
+
+**Dr. Li Jun**  
+Department of Computer Science  
+The Hong Kong Polytechnic University
+
+**Prof. LI Qing**  
+Department of Computer Science  
+The Hong Kong Polytechnic University
+
+**The Annotation Team**  
+For their meticulous work in data labeling and validation
+
+We also thank the anonymous reviewers for their insightful comments and the funding agencies that supported this research.
+
 
 ## License and Terms of Use
 
