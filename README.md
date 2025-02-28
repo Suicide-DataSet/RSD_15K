@@ -84,4 +84,4 @@ If you have any questions, please contact us through the information provided in
 
 ---
 
-[The Hong Kong Polytechnic University Logo](https://via.placeholder.com/150x50?text=PolyU+Logo)
+
