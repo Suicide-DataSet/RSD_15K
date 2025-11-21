@@ -1,5 +1,7 @@
 # RSD-15K: A Large-Scale User-Level Annotated Dataset for Suicide Risk Detection on Social Media
 
+## Notice Updated on 2025/11/21, Hong Kong
+We have uploaded the dataset in public area. Researchers can find the corresponding datasets to download.
 ## Dataset Overview
 
 RSD-15K is a large-scale dataset for suicide risk detection on social media with user-level annotations. This dataset was created and is maintained by a research team from The Hong Kong Polytechnic University to advance research in suicide risk detection and prevention.
