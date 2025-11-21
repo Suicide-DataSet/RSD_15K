@@ -22,7 +22,12 @@ Due to privacy concerns surrounding the participants of the research, we do not 
 If your research uses the RSD-15K dataset, please cite the following paper in your publication:
 
 ```
-Zheng, S., Tao, Y., & Zhou, T. (2025). RSD-15K: A Large-Scale User-Level Annotated Dataset for Suicide Risk Detection on Social Media. XXXXXXXXXXXXX
+S. Zheng, Y. Tao and T. Zhou, "RSD-15K: A Large-Scale User-Level Annotated Dataset for Suicide Risk Detection on Social Media," 2025 IEEE 41st International Conference on Data Engineering Workshops (ICDEW), Hong Kong, Hong Kong, 2025, pp. 190-196, doi: 10.1109/ICDEW67478.2025.00029.
+```
+Here is the paper page in IEEE:
+
+```
+https://ieeexplore.ieee.org/abstract/document/11108158
 ```
 
 ## Research Team
